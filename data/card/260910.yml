@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.9"
   latestRelease: "v0.6.9"
   latestPrerelease: "v0.0.2"
-  collectedAt: 2026-09-10T20:28:12Z
+  collectedAt: 2026-09-10T23:19:01Z
 timeline:
   created: 2019-07-22
   lastCommit: 2026-07-21
@@ -84,7 +84,7 @@ total:
   commit: 252
 ---
 path: /home/runner/.x-repo/github.com/tmccombs/hcl2json
-collectedAt: 2026-09-10T20:28:13Z
+collectedAt: 2026-09-10T23:19:02Z
 loc:
   Go:
     code: 684
