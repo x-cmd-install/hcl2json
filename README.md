@@ -28,8 +28,8 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 1 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last180d | 2026-03-20 | 1 | 4 | 0 | 2 | 0 | 4 |
-| 360d | 2025-09-21 | 1 | 9 | 1 | 4 | 0 | 10 |
-| last720d | 2024-09-26 | 5 | 26 | 1 | 8 | 3 | 60 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-21 | 1 | 4 | 0 | 2 | 0 | 4 |
+| 360d | 2025-09-22 | 1 | 9 | 1 | 4 | 0 | 10 |
+| last720d | 2024-09-27 | 5 | 26 | 1 | 8 | 3 | 60 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for hcl2json lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:48:00Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:49:44Z._
