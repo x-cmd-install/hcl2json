@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 91 · **Open PRs**: 1 · **Closed issues**: 35 · **Open issues**: 9 · **Commits**: 252
+- **Releases**: 26 · **Merged PRs**: 91 · **Open PRs**: 2 · **Closed issues**: 35 · **Open issues**: 9 · **Commits**: 252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-24 | 1 | 4 | 0 | 2 | 0 | 4 |
-| 360d | 2025-09-25 | 1 | 9 | 1 | 4 | 0 | 10 |
-| last720d | 2024-09-30 | 5 | 26 | 1 | 8 | 3 | 60 |
+| 30d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last180d | 2026-03-25 | 1 | 4 | 1 | 2 | 0 | 4 |
+| 360d | 2025-09-26 | 1 | 9 | 2 | 4 | 0 | 10 |
+| last720d | 2024-10-01 | 5 | 26 | 2 | 8 | 3 | 60 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for hcl2json lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:32:02Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:39:53Z._
