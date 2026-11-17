@@ -40,7 +40,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.9` (2026-04-04)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-11-16
 - **Assets in release**: 13
 
 ## Popularity
@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 92 · **Open PRs**: 2 · **Closed issues**: 35 · **Open issues**: 9 · **Commits**: 254
+- **Releases**: 26 · **Merged PRs**: 93 · **Open PRs**: 1 · **Closed issues**: 35 · **Open issues**: 9 · **Commits**: 256
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 1 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last180d | 2026-05-20 | 0 | 4 | 1 | 0 | 0 | 4 |
-| 360d | 2025-11-21 | 1 | 10 | 2 | 4 | 0 | 10 |
-| last720d | 2024-11-26 | 5 | 26 | 2 | 8 | 3 | 60 |
+| 30d | 2026-10-18 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-18 | 0 | 2 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-19 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-21 | 0 | 5 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-22 | 1 | 11 | 1 | 4 | 0 | 11 |
+| last720d | 2024-11-27 | 5 | 27 | 1 | 8 | 3 | 62 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for hcl2json lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T09:05:10Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:20:12Z._
